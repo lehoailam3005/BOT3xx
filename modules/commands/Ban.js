@@ -1,5 +1,5 @@
-const timeup = 200
-const lan = 5
+const timeup = 30
+const lan = 15
 module.exports.config = {
 	name: "spam",
 	version: "1.0.0",

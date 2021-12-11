@@ -1,20 +1,20 @@
 {
     "language": "en",
     "keyActive": "",
-    "DeveloperMode": false,
+    "DeveloperMode": true,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
+    "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "SAD BOY",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100015105427092",
+        "100066963618515"
     ],
     "DATABASE": {
         "sqlite": {

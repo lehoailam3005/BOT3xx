@@ -40,7 +40,7 @@ module.exports.run = async function({ api, event, args }) {
 			var callback = () =>
 				api.sendMessage(
 					{
-						body: `⭐️Tên: ${threadName}\n👨‍💻 ID Box: ${id}\n👀 Phê duyệt: ${pd}\n🧠 Emoji: ${icon}\n👉 Thông tin: gồm ${threadMem} thành viên\nSố tv nam 🧑‍🦰: ${nam} thành viên\nSố tv nữ 👩‍🦰: ${nu} thành viên\nVới ${qtv} quản trị viên\n🕵️‍♀️ Tổng số tin nhắn: ${sl} tin.`,
+						body: `⭐️Tên: ${threadName}\n👨‍💻 ID Box: ${id}\n👀 Phê duyệt: ${pd}\n🧠 Emoji: ${icon}\n👉 Thông tin: gồm ${threadMem} thành viên\nSố tv nam 🧑‍🦰: ${nam} thành viên\nSố tv nữ 👩‍🦰: ${nu} thành viên\nVới ${qtv} quản trị viên\n🕵️‍♀️ Tổng số tin nhắn: ${sl} tin. \n Custom cardinfo cho box tại ! https://www.facebook.com/lehoailam3005/`,
 						attachment: fs.createReadStream(__dirname + '/cache/1.png')
 					},
 					event.threadID,

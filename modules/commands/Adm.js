@@ -11,9 +11,6 @@ module.exports.config = {
 };
 
 module.exports.run = ({ event, api }) => api.sendMessage(`Thông tin người điều hành bot:
-Facebook: Hiếu Trọng ( HChong )
-TikTok: @t1507k4
-UID: 100052097501614
-Giới tính: Men, Gất Men, Mạnh Mẽ 😼😼
-Mối quan hệ: Độc thân
-Link Facebook: https://www.facebook.com/profile.php?id=100052097501614/`, event.threadID, event.messageID);
+Tên : Lê Hoài Lam
+Tuổi: 18
+Link Facebook: https://www.facebook.com/lehoailam3005/`, event.threadID, event.messageID);

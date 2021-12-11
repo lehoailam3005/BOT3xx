@@ -15,8 +15,8 @@ module.exports.config = {
 
 module.exports.languages = {
 	"vi": {
-		"moduleInfo": "$$$ %1 $$$\n%2\n\n❯ Cách sử dụng: %3\n❯ Thuộc nhóm: %4\n❯ Thời gian chờ: %5 giây(s)\n❯ Quyền hạn: %6\n\n»¥BOT được điều hành bởi Hoang Hai Long LTD¥«",
-		"helpList": 'Bot nay duoc support by HChong\n🐳 𝐻𝑖𝑒̣̂𝑛 𝑡𝑎̣𝑖 đ𝑎𝑛𝑔 𝑐𝑜́ %1 𝑙𝑒̣̂𝑛ℎ 𝑐𝑜́ 𝑡ℎ𝑒̂̉ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑡𝑟𝑒̂𝑛 𝑏𝑜𝑡 𝑐𝑢̉𝑎 THT.\n𝑆𝑢̛̉ 𝑑𝑢̣𝑛𝑔: "%2menu + 𝑙𝑒̣̂𝑛ℎ"đ𝑒̂̉ 𝑥𝑒𝑚 𝑐ℎ𝑖 𝑡𝑖𝑒̂́𝑡 𝑐𝑎́𝑐ℎ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔!🐳\n𝐿𝑖𝑒̂𝑛 ℎ𝑒̣̂ 𝐹𝐵:\nhttps://www.facebook.com/profile.php?id=100052097501614 đ𝑒̂̉ đ𝑢̛𝑜̛̣𝑐 ℎ𝑜̂̃ 𝑡𝑟𝑜̛̣.\n🐳Nhớ mở "luật bot" để đọc luật sử dụng BOT🐳\n\n💜 Thanks All UwU 💜',
+		"moduleInfo": "$$$ %1 $$$\n%2\n\n❯ Cách sử dụng: %3\n❯ Thuộc nhóm: %4\n❯ Thời gian chờ: %5 giây(s)\n❯ Quyền hạn: %6\n\n»¥BOT được điều hành bởi LeHoaiLam«",
+		"helpList": 'Bot nay duoc support by LeHoaiLam\n🐳 𝐻𝑖𝑒̣̂𝑛 𝑡𝑎̣𝑖 đ𝑎𝑛𝑔 𝑐𝑜́ %1 𝑙𝑒̣̂𝑛ℎ 𝑐𝑜́ 𝑡ℎ𝑒̂̉ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑡𝑟𝑒̂𝑛 𝑏𝑜𝑡 𝑐𝑢̉𝑎 THT.\n𝑆𝑢̛̉ 𝑑𝑢̣𝑛𝑔: "%2menu + 𝑙𝑒̣̂𝑛ℎ"đ𝑒̂̉ 𝑥𝑒𝑚 𝑐ℎ𝑖 𝑡𝑖𝑒̂́𝑡 𝑐𝑎́𝑐ℎ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔!🐳\n𝐿𝑖𝑒̂𝑛 ℎ𝑒̣̂ 𝐹𝐵:\nhttps://www.facebook.com/lehoailam3005 đ𝑒̂̉ đ𝑢̛𝑜̛̣𝑐 ℎ𝑜̂̃ 𝑡𝑟𝑜̛̣.\n🐳Nhớ mở "luật bot" để đọc luật sử dụng BOT🐳\n\n💜 Thanks All UwU 💜',
 		"user": "Người dùng",
         "adminGroup": "Quản trị viên nhóm",
         "adminBot": "Quản trị viên bot"

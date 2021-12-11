@@ -21,14 +21,14 @@ module.exports.run = async function({ api, args, Users, event}) {
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("Bắt đầu chửi !");
-setTimeout(() => {a({body: "Đ!t con mẹ mày" + " " + name, mentions: arraytag})}, 3000);
-setTimeout(() => {a({body: "Mày ra đây tao bảo" + " " + name, mentions: arraytag})}, 5000);
-setTimeout(() => {a({body: "Hiện hồn nhanh con chó" + " " + name, mentions: arraytag})}, 7000);
-setTimeout(() => {a({body: "Hiện hồn bố mày hỏi tội" + " " + name, mentions: arraytag})}, 9000);
-setTimeout(() => {a({body: "Mày trốn khi nào mới hiện hồn đây" + " " + name, mentions: arraytag})}, 12000);
-setTimeout(() => {a({body: "Đ!t cụ mày nữa hiện hồn" + " " + name, mentions: arraytag})}, 15000);
-setTimeout(() => {a({body: "Hiện hồn nhanh không tao đốt nhà mày giờ" + " " + name, mentions: arraytag})}, 17000);
-setTimeout(() => {a({body: "Nhanh ra chửi nhau với tao" + " " + name, mentions: arraytag})}, 20000);
+setTimeout(() => {a({body: "Trời đất dung hoa" + " " + name, mentions: arraytag})}, 3000);
+setTimeout(() => {a({body: "Vạn vật sinh sôi" + " " + name, mentions: arraytag})}, 5000);
+setTimeout(() => {a({body: "Con mẹ mày lôi thôi" + " " + name, mentions: arraytag})}, 7000);
+setTimeout(() => {a({body: "mồm xanh mỏ đỏ" + " " + name, mentions: arraytag})}, 9000);
+setTimeout(() => {a({body: "đầu tóc bờ xờm" + " " + name, mentions: arraytag})}, 12000);
+setTimeout(() => {a({body: "khạc đờm tung tóe" + " " + name, mentions: arraytag})}, 15000);
+setTimeout(() => {a({body: "tao địt con mẹ mày sống , địt con mẹ mày chết" + " " + name, mentions: arraytag})}, 17000);
+setTimeout(() => {a({body: "địt con mẹ mày si đa" + " " + name, mentions: arraytag})}, 20000);
 setTimeout(() => {a({body: "Tao ném trứng thối đổ dầu đổ xăng vào nhà mày giờ" + " " + name, mentions: arraytag})}, 23000);
 setTimeout(() => {a({body: "Con cặc địt mẹ mày" + " " + name, mentions: arraytag})}, 25000);
 setTimeout(() => {a({body: "Đéo ra nữa bố mày đốt nhà mày" + " " + name, mentions: arraytag})}, 28500);
