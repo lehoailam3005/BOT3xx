@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "vi",
     "keyActive": "",
     "DeveloperMode": true,
     "autoCreateDB": true,
@@ -10,7 +10,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "SAD BOY",
+    "BOTNAME": "SÁT BOY",
     "PREFIX": "/",
     "ADMINBOT": [
         "100015105427092",
@@ -29,5 +29,35 @@
         "logLevel": "error",
         "selfListen": false,
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 90
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDH-HVpxrvn5tldQSqwYZdbLoIuDzM9jFI",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY"
+    },
+    "work": {
+        "cooldownTime": 1200000
     }
 }
